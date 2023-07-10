@@ -1,16 +1,17 @@
-### Hi there 👋
+### О себе
 
-<!--
-**blawiken/blawiken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Иван Селуков, я Python-разработчик с опытом работы во фреймворках Django/DRF, Flask, FastAPI с применением Celery, Docker, Git.
 
-Here are some ideas to get you started:
+### Выполненные проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [API сервиса заказа товаров для розничных сетей](https://github.com/blawiken/nt-python-diplom)
+* [Резервное копирование](https://github.com/blawiken/Neto-Homeworks/tree/master/1.%20Basic/9.%20Course%20work)
+
+### Сертификаты и дипломы
+
+* Python-разработчик с нуля _([ссылка](https://netology.ru/programs/python) на курс)_
+
+### Контакты
+
+* blawiken@ya.ru
+* Telegram: @xraked
